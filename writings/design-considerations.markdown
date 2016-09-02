@@ -2,8 +2,8 @@ Experience Design for Fermi Paradox related content
 ===================================================
 
 The Fermi Paradox is an important cultural hallmark for Human conscience.
-The assertion of existence and the contact with other sentient being, of however complex backstory, would augment our experience of reality in unimaginable ways.
-The nature of such encounter could mean anything from total annihillation of our resourceful solar system, to enslavement of our race, or, more simple, revolutions on science, shifts of power, the end of some religions and creation of new ones.
+The assertion of existence and the contact with other sentient being, of however complex background, would augment our experience of reality in unimaginable ways.
+The nature of such encounter could mean anything from total annihilation of our resourceful solar system, to enslavement of our race, or, more simple, revolutions on science, shifts of power, the end of some religions and creation of new ones.
 
 But the reality in which we exist is already tough.
 Staying alive is not easy. Living meaningfully is actually hard.
@@ -11,14 +11,14 @@ Doing that in contemporary society as such that you need to compete, use and be 
 
 To think about outer-space contact is then impractical and unproductive even.
 
-But it could happen at any moment, with the sight of a ship exiting hyperdrive and appear in the nightsky as a shiny little star beside the Moon, or the track of an ancient probe full of content like the Voyager, or with a beautiful spectacle of colorful skies, soothing music and millions of dancers of an artistic driven society.
+But it could happen at any moment, with the sight of a ship exiting hyperdrive and appear in the night sky as a shiny little star beside the Moon, or the track of an ancient probe full of content like the Voyager, or with a beautiful spectacle of colorful skies, soothing music and millions of dancers of an artistic driven society.
 It could mean everything. And still, everything we can think about it will be filled with biases for what we perceive of life and reality, and its possibilities.
 
-Much of mainstream culture around outer-space existence deals with the formation of Human-like relationships, like Alien's brutal aggresion, the tyranny of the Galatic Empire, and interstellar trade routes for resources exploited in different planets.
+Much of mainstream culture around outer-space existence deals with the formation of Human-like relationships, like Alien's brutal aggression, the tyranny of the Galactic Empire, and interstellar trade routes for resources exploited in different planets.
 Extrapolation of Human dynamics to outer-space context works well and provides a lot of opportunities for fun as we marvel at the what-ifs of our technological potential.
 A lot of game mechanics profit from backstories like that, specially aggression based like shooters and strategy games.
 
-It would certainly be thrilling to be graced with such duty of existence as to take the last stance to protect the planet you inhabit or to preserve the race which you belong to. To live in an age of a common goal against a common non-Humam enemy could be very enriching for a Human mind, it could enable the deepest bonds and the most extraordinary virtues.
+It would certainly be thrilling to be graced with such duty of existence as to take the last stance to protect the planet you inhabit or to preserve the race which you belong to. To live in an age of a common goal against a common non-Human enemy could be very enriching for a Human mind, it could enable the deepest bonds and the most extraordinary virtues.
 It would also be very interesting to live through the discovery and initial contact, specially with a preservation-driven life form. The effects of rapid technological advance. The understanding of more complex philosophical questions and maybe even richer emotions.
 
 But the immediate perception about the Fermi Paradox and it's current intractability to the Human condition is not thrilling at all.
