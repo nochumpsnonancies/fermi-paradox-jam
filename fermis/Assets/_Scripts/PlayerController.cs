@@ -3,13 +3,27 @@ using System.Collections;
 
 public class PlayerController : MonoBehaviour {
 
-	// Use this for initialization
+  public float Speed;
+  public float JumpPower;
+	public bool Grounded;
+  public GameObject GroundCheck;
+
+  private Rigidbody rb;
+
 	void Start () {
-	
+    rb = gameObject.GetComponent<Rigidbody>();
 	}
-	
-	// Update is called once per frame
-	void Update () {
-	
+
+	void FixedUpdate ()
+  {
+    if(Input.GetKeyDown("space"))
+    {
+      rb.AddForce(Vector3.up * JumpPower);
+    }
+    if(Input.GetKey("escape"))
+    {
+      GameController.control.PauseGame();
+    }
+
 	}
 }
