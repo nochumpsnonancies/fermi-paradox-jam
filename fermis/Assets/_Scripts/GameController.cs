@@ -10,7 +10,9 @@ public class GameController : MonoBehaviour {
   public GameObject GameOverCanvas;
   public GameObject GameWinCanvas;
   public float Score;
+  public float Health;
   public Text ScoreHUD;
+  public Text HealthHUD;
   public bool Paused = false;
 
   void Awake () {
@@ -18,7 +20,8 @@ public class GameController : MonoBehaviour {
 	}
 
 	void Update () {
-    ScoreHUD.text = (Score.ToString ("n0"));
+    ScoreHUD.text = ("Score " + Score.ToString ("n0"));
+    HealthHUD.text = ("Health " + Health.ToString ("n0"));
 	}
 
   public void PauseGame ()

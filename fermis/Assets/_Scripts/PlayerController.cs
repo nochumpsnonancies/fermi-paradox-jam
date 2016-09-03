@@ -24,6 +24,19 @@ public class PlayerController : MonoBehaviour {
     {
       GameController.control.PauseGame();
     }
-
 	}
+
+  void OnCollisionEnter(Collision coll)
+  {
+    if (coll.gameObject.tag == "PlanetScore")
+    {
+      Destroy(coll.gameObject, 0);
+      GameController.control.Score += 1f;
+    }
+    if (coll.gameObject.tag == "PlanetHarm")
+    {
+      Destroy(coll.gameObject, 0);
+      GameController.control.Health -= 1f;
+    }
+  }
 }
