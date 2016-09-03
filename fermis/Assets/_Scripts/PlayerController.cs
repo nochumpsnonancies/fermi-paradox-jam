@@ -28,15 +28,22 @@ public class PlayerController : MonoBehaviour {
 
   void OnCollisionEnter(Collision coll)
   {
-    if (coll.gameObject.tag == "PlanetScore")
+    if (coll.gameObject.tag == "PlanetBlue")
     {
       Destroy(coll.gameObject, 0);
-      GameController.control.Score += 1f;
     }
-    if (coll.gameObject.tag == "PlanetHarm")
+
+    if (coll.gameObject.tag == "PlanetRed")
     {
       Destroy(coll.gameObject, 0);
       GameController.control.Health -= 1f;
     }
+
+    if (coll.gameObject.tag == "PlanetGreen")
+    {
+      Destroy(coll.gameObject, 0);
+      GameController.control.Health += 1f;
+    }
+
   }
 }
