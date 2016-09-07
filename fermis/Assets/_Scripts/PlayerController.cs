@@ -8,10 +8,10 @@ public class PlayerController : MonoBehaviour {
 	public bool Grounded;
   public GameObject GroundCheck;
 
-  private Rigidbody rb;
+  private Rigidbody2D rb;
 
 	void Start () {
-    rb = gameObject.GetComponent<Rigidbody>();
+    rb = gameObject.GetComponent<Rigidbody2D>();
 	}
 
 	void FixedUpdate ()
