@@ -1,0 +1,879 @@
+fileFormatVersion: 2
+guid: 754bd0205d996b045b4feb362f6b671e
+timeCreated: 1473440806
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shroomBrownAltLeft.png
+    21300002: shroomBrownAltMid.png
+    21300004: shroomBrownAltMidAlt.png
+    21300006: shroomBrownAltRight.png
+    21300008: shroomBrownAltSpotsLeft.png
+    21300010: shroomBrownAltSpotsMid.png
+    21300012: shroomBrownAltSpotsMidAlt.png
+    21300014: shroomBrownAltSpotsRight.png
+    21300016: shroomBrownLeft.png
+    21300018: shroomBrownMid.png
+    21300020: shroomBrownMidAlt.png
+    21300022: shroomBrownRight.png
+    21300024: shroomBrownSpotsLeft.png
+    21300026: shroomBrownSpotsMid.png
+    21300028: shroomBrownSpotsMidAlt.png
+    21300030: shroomBrownSpotsRight.png
+    21300032: shroomRedAltLeft.png
+    21300034: shroomRedAltMid.png
+    21300036: shroomRedAltMidAlt.png
+    21300038: shroomRedAltRight.png
+    21300040: shroomRedLeft.png
+    21300042: shroomRedMid.png
+    21300044: shroomRedMidAlt.png
+    21300046: shroomRedRight.png
+    21300048: shroomTanAltLeft.png
+    21300050: shroomTanAltMid.png
+    21300052: shroomTanAltMidAlt.png
+    21300054: shroomTanAltRight.png
+    21300056: shroomTanLeft.png
+    21300058: shroomTanMid.png
+    21300060: shroomTanMidAlt.png
+    21300062: shroomTanRight.png
+    21300064: stem.png
+    21300066: stemBase.png
+    21300068: stemBaseAlt.png
+    21300070: stemCrown.png
+    21300072: stemShroom.png
+    21300074: stemTop.png
+    21300076: stemTopAlt.png
+    21300078: stemVine.png
+    21300080: tallShroom_brown.png
+    21300082: tallShroom_red.png
+    21300084: tallShroom_tan.png
+    21300086: tinyShroom_brown.png
+    21300088: tinyShroom_red.png
+    21300090: tinyShroom_tan.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 68
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: shroomBrownAltLeft.png
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 371
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 35}
+        - {x: -29, y: 33}
+        - {x: -35, y: 28}
+        - {x: -35, y: 0}
+        - {x: -23, y: -7}
+        - {x: 35, y: -7}
+        - {x: 35, y: 35}
+    - name: shroomBrownAltMid.png
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 300
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -7}
+        - {x: 35, y: -7}
+        - {x: 35, y: 35}
+    - name: shroomBrownAltMidAlt.png
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 371
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -7}
+        - {x: 35, y: -7}
+        - {x: 35, y: 35}
+    - name: shroomBrownAltRight.png
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 442
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 35}
+        - {x: -35, y: 35}
+        - {x: -35, y: -7}
+        - {x: 30, y: -7}
+        - {x: 35, y: 0}
+        - {x: 35, y: 28}
+        - {x: 29, y: 33}
+    - name: shroomBrownAltSpotsLeft.png
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 16
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 35}
+        - {x: -29, y: 33}
+        - {x: -35, y: 28}
+        - {x: -35, y: 0}
+        - {x: -23, y: -7}
+        - {x: 35, y: -7}
+        - {x: 35, y: 35}
+    - name: shroomBrownAltSpotsMid.png
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 87
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -7}
+        - {x: 35, y: -7}
+        - {x: 35, y: 35}
+    - name: shroomBrownAltSpotsMidAlt.png
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 158
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -7}
+        - {x: 35, y: -7}
+        - {x: 35, y: 35}
+    - name: shroomBrownAltSpotsRight.png
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 229
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 35}
+        - {x: -35, y: 35}
+        - {x: -35, y: -7}
+        - {x: 22, y: -7}
+        - {x: 35, y: -1}
+        - {x: 35, y: 28}
+        - {x: 29, y: 33}
+    - name: shroomBrownLeft.png
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 300
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 35}
+        - {x: -29, y: 33}
+        - {x: -35, y: 28}
+        - {x: -35, y: 0}
+        - {x: -23, y: -7}
+        - {x: 35, y: -7}
+        - {x: 35, y: 35}
+    - name: shroomBrownMid.png
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 371
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -7}
+        - {x: 35, y: -7}
+        - {x: 35, y: 35}
+    - name: shroomBrownMidAlt.png
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 442
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -7}
+        - {x: 35, y: -7}
+        - {x: 35, y: 35}
+    - name: shroomBrownRight.png
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 16
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 35}
+        - {x: -35, y: 35}
+        - {x: -35, y: -7}
+        - {x: 30, y: -7}
+        - {x: 35, y: 0}
+        - {x: 35, y: 28}
+        - {x: 29, y: 33}
+    - name: shroomBrownSpotsLeft.png
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 87
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 35}
+        - {x: -29, y: 33}
+        - {x: -35, y: 28}
+        - {x: -35, y: 0}
+        - {x: -23, y: -7}
+        - {x: 35, y: -7}
+        - {x: 35, y: 35}
+    - name: shroomBrownSpotsMid.png
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 158
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -7}
+        - {x: 35, y: -7}
+        - {x: 35, y: 35}
+    - name: shroomBrownSpotsMidAlt.png
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 229
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -7}
+        - {x: 35, y: -7}
+        - {x: 35, y: 35}
+    - name: shroomBrownSpotsRight.png
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 300
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 35}
+        - {x: -35, y: 35}
+        - {x: -35, y: -7}
+        - {x: 22, y: -7}
+        - {x: 35, y: -1}
+        - {x: 35, y: 28}
+        - {x: 29, y: 33}
+    - name: shroomRedAltLeft.png
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 371
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 35}
+        - {x: -35, y: 33}
+        - {x: -35, y: -5}
+        - {x: -32, y: -7}
+        - {x: 35, y: -7}
+        - {x: 35, y: 35}
+    - name: shroomRedAltMid.png
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 442
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -7}
+        - {x: 35, y: -7}
+        - {x: 35, y: 35}
+    - name: shroomRedAltMidAlt.png
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 16
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -7}
+        - {x: 35, y: -7}
+        - {x: 35, y: 35}
+    - name: shroomRedAltRight.png
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 87
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -7}
+        - {x: 31, y: -7}
+        - {x: 35, y: -4}
+        - {x: 35, y: 33}
+        - {x: 33, y: 35}
+    - name: shroomRedLeft.png
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 158
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 35}
+        - {x: -35, y: 33}
+        - {x: -35, y: -5}
+        - {x: -32, y: -7}
+        - {x: 35, y: -7}
+        - {x: 35, y: 35}
+    - name: shroomRedMid.png
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 229
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -7}
+        - {x: 35, y: -7}
+        - {x: 35, y: 35}
+    - name: shroomRedMidAlt.png
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 300
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -7}
+        - {x: 35, y: -7}
+        - {x: 35, y: 35}
+    - name: shroomRedRight.png
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 229
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -7}
+        - {x: 31, y: -7}
+        - {x: 35, y: -4}
+        - {x: 35, y: 33}
+        - {x: 33, y: 35}
+    - name: shroomTanAltLeft.png
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 442
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 35}
+        - {x: -35, y: 33}
+        - {x: -35, y: -5}
+        - {x: -32, y: -7}
+        - {x: 35, y: -7}
+        - {x: 35, y: 35}
+    - name: shroomTanAltMid.png
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 16
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -7}
+        - {x: 35, y: -7}
+        - {x: 35, y: 35}
+    - name: shroomTanAltMidAlt.png
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 87
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -7}
+        - {x: 35, y: -7}
+        - {x: 35, y: 35}
+    - name: shroomTanAltRight.png
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 158
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -7}
+        - {x: 31, y: -7}
+        - {x: 35, y: -4}
+        - {x: 35, y: 33}
+        - {x: 33, y: 35}
+    - name: shroomTanLeft.png
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 229
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 35}
+        - {x: -35, y: 33}
+        - {x: -35, y: -5}
+        - {x: -32, y: -7}
+        - {x: 35, y: -7}
+        - {x: 35, y: 35}
+    - name: shroomTanMid.png
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 300
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -7}
+        - {x: 35, y: -7}
+        - {x: 35, y: 35}
+    - name: shroomTanMidAlt.png
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 371
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -7}
+        - {x: 35, y: -7}
+        - {x: 35, y: 35}
+    - name: shroomTanRight.png
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 442
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -7}
+        - {x: 31, y: -7}
+        - {x: 35, y: -4}
+        - {x: 35, y: 33}
+        - {x: 33, y: 35}
+    - name: stem.png
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 16
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -35}
+        - {x: 18, y: 35}
+        - {x: -17, y: 35}
+        - {x: -17, y: -35}
+    - name: stemBase.png
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 87
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 35}
+        - {x: -26, y: -15}
+        - {x: -26, y: -33}
+        - {x: -25, y: -35}
+        - {x: 27, y: -35}
+        - {x: 27, y: -23}
+        - {x: 18, y: 35}
+    - name: stemBaseAlt.png
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 158
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -35}
+        - {x: 31, y: -35}
+        - {x: 31, y: -25}
+        - {x: 18, y: 35}
+        - {x: -17, y: 35}
+        - {x: -30, y: -30}
+    - name: stemCrown.png
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 229
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 35}
+        - {x: -25, y: 26}
+        - {x: -25, y: -15}
+        - {x: -22, y: -35}
+        - {x: 18, y: -35}
+        - {x: 26, y: 1}
+        - {x: 26, y: 22}
+        - {x: 19, y: 35}
+    - name: stemShroom.png
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 300
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 35}
+        - {x: -35, y: 20}
+        - {x: -35, y: -21}
+        - {x: -28, y: -35}
+        - {x: 25, y: -35}
+        - {x: 35, y: -10}
+        - {x: 35, y: 18}
+        - {x: 18, y: 35}
+    - name: stemTop.png
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 371
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 35}
+        - {x: -28, y: 14}
+        - {x: -17, y: -35}
+        - {x: 18, y: -35}
+        - {x: 29, y: 28}
+        - {x: 29, y: 35}
+    - name: stemTopAlt.png
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 442
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 35}
+        - {x: -35, y: 30}
+        - {x: -17, y: -35}
+        - {x: 18, y: -35}
+        - {x: 35, y: 30}
+        - {x: 35, y: 35}
+    - name: stemVine.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 35}
+        - {x: -20, y: 4}
+        - {x: -20, y: -28}
+        - {x: -19, y: -35}
+        - {x: 19, y: -35}
+        - {x: 24, y: -16}
+        - {x: 24, y: 16}
+        - {x: 19, y: 35}
+    - name: tallShroom_brown.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 8}
+        - {x: -25, y: -22}
+        - {x: -19, y: -35}
+        - {x: 7, y: -35}
+        - {x: 23, y: -10}
+        - {x: 23, y: 2}
+        - {x: 22, y: 8}
+    - name: tallShroom_red.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 8}
+        - {x: -25, y: -22}
+        - {x: -19, y: -35}
+        - {x: 7, y: -35}
+        - {x: 23, y: -10}
+        - {x: 23, y: 2}
+        - {x: 22, y: 8}
+    - name: tallShroom_tan.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 229
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 8}
+        - {x: -10, y: 8}
+        - {x: -18, y: 7}
+        - {x: -25, y: -1}
+        - {x: -25, y: -6}
+        - {x: -20, y: -10}
+        - {x: -11, y: -35}
+        - {x: 8, y: -35}
+        - {x: 23, y: -10}
+        - {x: 23, y: 0}
+        - {x: 21, y: 7}
+    - name: tinyShroom_brown.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -3}
+        - {x: -23, y: -6}
+        - {x: -23, y: -25}
+        - {x: -16, y: -35}
+        - {x: 11, y: -35}
+        - {x: 20, y: -21}
+        - {x: 20, y: -8}
+        - {x: 12, y: -3}
+    - name: tinyShroom_red.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -3}
+        - {x: -23, y: -6}
+        - {x: -23, y: -27}
+        - {x: -18, y: -35}
+        - {x: 7, y: -35}
+        - {x: 20, y: -24}
+        - {x: 20, y: -9}
+        - {x: 9, y: -3}
+    - name: tinyShroom_tan.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -3}
+        - {x: -23, y: -6}
+        - {x: -23, y: -25}
+        - {x: -16, y: -35}
+        - {x: 11, y: -35}
+        - {x: 20, y: -21}
+        - {x: 20, y: -8}
+        - {x: 12, y: -3}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

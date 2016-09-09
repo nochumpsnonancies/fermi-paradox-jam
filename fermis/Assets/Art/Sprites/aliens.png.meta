@@ -1,0 +1,1135 @@
+fileFormatVersion: 2
+guid: a33c6e1c7355ed247b884f3cd0354a7e
+timeCreated: 1473449127
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: alienBeige.png
+    21300002: alienBeige_climb1.png
+    21300004: alienBeige_climb2.png
+    21300006: alienBeige_duck.png
+    21300008: alienBeige_hurt.png
+    21300010: alienBeige_jump.png
+    21300012: alienBeige_stand.png
+    21300014: alienBeige_swim1.png
+    21300016: alienBeige_swim2.png
+    21300018: alienBeige_walk1.png
+    21300020: alienBeige_walk2.png
+    21300022: alienBlue.png
+    21300024: alienBlue_climb1.png
+    21300026: alienBlue_climb2.png
+    21300028: alienBlue_duck.png
+    21300030: alienBlue_hurt.png
+    21300032: alienBlue_jump.png
+    21300034: alienBlue_stand.png
+    21300036: alienBlue_swim1.png
+    21300038: alienBlue_swim2.png
+    21300040: alienBlue_walk1.png
+    21300042: alienBlue_walk2.png
+    21300044: alienGreen.png
+    21300046: alienGreen_climb1.png
+    21300048: alienGreen_climb2.png
+    21300050: alienGreen_duck.png
+    21300052: alienGreen_hurt.png
+    21300054: alienGreen_jump.png
+    21300056: alienGreen_stand.png
+    21300058: alienGreen_swim1.png
+    21300060: alienGreen_swim2.png
+    21300062: alienGreen_walk1.png
+    21300064: alienGreen_walk2.png
+    21300066: alienPink.png
+    21300068: alienPink_climb1.png
+    21300070: alienPink_climb2.png
+    21300072: alienPink_duck.png
+    21300074: alienPink_hurt.png
+    21300076: alienPink_jump.png
+    21300078: alienPink_stand.png
+    21300080: alienPink_swim1.png
+    21300082: alienPink_swim2.png
+    21300084: alienPink_walk1.png
+    21300086: alienPink_walk2.png
+    21300088: alienYellow.png
+    21300090: alienYellow_climb1.png
+    21300092: alienYellow_climb2.png
+    21300094: alienYellow_duck.png
+    21300096: alienYellow_hurt.png
+    21300098: alienYellow_jump.png
+    21300100: alienYellow_stand.png
+    21300102: alienYellow_swim1.png
+    21300104: alienYellow_swim2.png
+    21300106: alienYellow_walk1.png
+    21300108: alienYellow_walk2.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 70
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: alienBeige.png
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 57
+        width: 66
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 92}
+        - {x: -24, y: 91}
+        - {x: -33, y: 75}
+        - {x: -33, y: 11}
+        - {x: -24, y: 20}
+        - {x: -25, y: 0}
+        - {x: 25, y: 0}
+        - {x: 33, y: 15}
+        - {x: 33, y: 77}
+        - {x: 19, y: 92}
+    - name: alienBeige_climb1.png
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 242
+        width: 66
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 90}
+        - {x: 24, y: 95}
+        - {x: -30, y: 95}
+        - {x: -33, y: 91}
+        - {x: -33, y: 21}
+        - {x: -21, y: 0}
+        - {x: -3, y: 0}
+        - {x: 23, y: 4}
+        - {x: 32, y: 10}
+        - {x: 33, y: 13}
+    - name: alienBeige_climb2.png
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 49
+        width: 66
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 95}
+        - {x: -33, y: 88}
+        - {x: -33, y: 18}
+        - {x: -32, y: 5}
+        - {x: -20, y: 2}
+        - {x: -8, y: 0}
+        - {x: 25, y: 0}
+        - {x: 33, y: 36}
+        - {x: 33, y: 87}
+        - {x: 28, y: 95}
+    - name: alienBeige_duck.png
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 348
+        width: 67
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 72}
+        - {x: -22.5, y: 71}
+        - {x: -33.5, y: 54}
+        - {x: -33.5, y: 0}
+        - {x: 28.5, y: 0}
+        - {x: 33.5, y: 20}
+        - {x: 33.5, y: 59}
+        - {x: 20.5, y: 72}
+    - name: alienBeige_hurt.png
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 420
+        width: 67
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 92}
+        - {x: -21.5, y: 92}
+        - {x: -33.5, y: 78}
+        - {x: -33.5, y: 16}
+        - {x: -14.5, y: 0}
+        - {x: 32.5, y: 0}
+        - {x: 33.5, y: 3}
+        - {x: 33.5, y: 84}
+        - {x: 26.5, y: 91}
+    - name: alienBeige_jump.png
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 419
+        width: 66
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 93}
+        - {x: -33, y: 3}
+        - {x: -28, y: 0}
+        - {x: 27, y: 0}
+        - {x: 33, y: 6}
+        - {x: 33, y: 90}
+        - {x: 31, y: 93}
+    - name: alienBeige_stand.png
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 144
+        width: 66
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 92}
+        - {x: -33, y: 0}
+        - {x: 31, y: 0}
+        - {x: 33, y: 9}
+        - {x: 33, y: 89}
+        - {x: 30, y: 92}
+    - name: alienBeige_swim1.png
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 319
+        width: 69
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 98}
+        - {x: -34.5, y: 95}
+        - {x: -34.5, y: 0}
+        - {x: 14.5, y: 0}
+        - {x: 34.5, y: 22}
+        - {x: 34.5, y: 88}
+        - {x: 28.5, y: 98}
+    - name: alienBeige_swim2.png
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 412
+        width: 70
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 100}
+        - {x: -24, y: 99}
+        - {x: -35, y: 90}
+        - {x: -35, y: 0}
+        - {x: 35, y: 0}
+        - {x: 35, y: 94}
+        - {x: 23, y: 100}
+    - name: alienBeige_walk1.png
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 226
+        width: 68
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 93}
+        - {x: -32, y: 83}
+        - {x: -34, y: 73}
+        - {x: -34, y: 9}
+        - {x: -26, y: 0}
+        - {x: 34, y: 0}
+        - {x: 34, y: 91}
+        - {x: 28, y: 93}
+    - name: alienBeige_walk2.png
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 132
+        width: 70
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 96}
+        - {x: -35, y: 76}
+        - {x: -35, y: 0}
+        - {x: 19, y: 0}
+        - {x: 35, y: 10}
+        - {x: 35, y: 84}
+        - {x: 21, y: 96}
+    - name: alienBlue.png
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 245
+        width: 66
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 92}
+        - {x: -33, y: 87}
+        - {x: -33, y: 0}
+        - {x: 33, y: 0}
+        - {x: 33, y: 81}
+        - {x: 23, y: 92}
+    - name: alienBlue_climb1.png
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 61
+        width: 66
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 92}
+        - {x: -33, y: 90}
+        - {x: -33, y: 10}
+        - {x: -24, y: 0}
+        - {x: 16, y: 0}
+        - {x: 24, y: 1}
+        - {x: 33, y: 9}
+        - {x: 33, y: 92}
+    - name: alienBlue_climb2.png
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 153
+        width: 66
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 92}
+        - {x: -33, y: 90}
+        - {x: -33, y: 10}
+        - {x: -31, y: 0}
+        - {x: 25, y: 0}
+        - {x: 33, y: 36}
+        - {x: 33, y: 83}
+        - {x: 28, y: 92}
+    - name: alienBlue_duck.png
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 169
+        width: 67
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 72}
+        - {x: -22.5, y: 71}
+        - {x: -33.5, y: 54}
+        - {x: -33.5, y: 0}
+        - {x: 28.5, y: 0}
+        - {x: 33.5, y: 20}
+        - {x: 33.5, y: 59}
+        - {x: 20.5, y: 72}
+    - name: alienBlue_hurt.png
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 420
+        width: 67
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: 92}
+        - {x: -22.5, y: 92}
+        - {x: -33.5, y: 78}
+        - {x: -33.5, y: 11}
+        - {x: -6.5, y: 0}
+        - {x: 27.5, y: 0}
+        - {x: 33.5, y: 14}
+        - {x: 33.5, y: 79}
+    - name: alienBlue_jump.png
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 149
+        width: 66
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 93}
+        - {x: -33, y: 88}
+        - {x: -33, y: 0}
+        - {x: 31, y: 0}
+        - {x: 33, y: 3}
+        - {x: 33, y: 85}
+        - {x: 29, y: 93}
+    - name: alienBlue_stand.png
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 52
+        width: 66
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 0}
+        - {x: 33, y: 0}
+        - {x: 33, y: 92}
+        - {x: -23, y: 92}
+        - {x: -33, y: 84}
+    - name: alienBlue_swim1.png
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 37
+        width: 69
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 95}
+        - {x: -34.5, y: 0}
+        - {x: 23.5, y: 0}
+        - {x: 34.5, y: 20}
+        - {x: 34.5, y: 92}
+        - {x: 32.5, y: 95}
+    - name: alienBlue_swim2.png
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 315
+        width: 70
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 97}
+        - {x: -35, y: 94}
+        - {x: -35, y: 0}
+        - {x: 17, y: 0}
+        - {x: 35, y: 20}
+        - {x: 35, y: 95}
+        - {x: 30, y: 97}
+    - name: alienBlue_walk1.png
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 152
+        width: 66
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 93}
+        - {x: -33, y: 81}
+        - {x: -33, y: 7}
+        - {x: -25, y: 0}
+        - {x: 32, y: 0}
+        - {x: 33, y: 3}
+        - {x: 33, y: 78}
+        - {x: 23, y: 93}
+    - name: alienBlue_walk2.png
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 241
+        width: 67
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 96}
+        - {x: -33.5, y: 85}
+        - {x: -33.5, y: 9}
+        - {x: -13.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 33.5, y: 15}
+        - {x: 33.5, y: 81}
+        - {x: 24.5, y: 96}
+    - name: alienGreen.png
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 144
+        width: 66
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 92}
+        - {x: -23, y: 90}
+        - {x: -33, y: 76}
+        - {x: -33, y: 15}
+        - {x: -22, y: 0}
+        - {x: 22, y: 0}
+        - {x: 33, y: 14}
+        - {x: 33, y: 79}
+        - {x: 19, y: 92}
+    - name: alienGreen_climb1.png
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 420
+        width: 66
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 92}
+        - {x: -33, y: 84}
+        - {x: -33, y: 28}
+        - {x: -26, y: 0}
+        - {x: 27, y: 0}
+        - {x: 33, y: 26}
+        - {x: 33, y: 82}
+        - {x: 23, y: 92}
+    - name: alienGreen_climb2.png
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 328
+        width: 66
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 92}
+        - {x: -33, y: 82}
+        - {x: -33, y: 5}
+        - {x: -27, y: 0}
+        - {x: 22, y: 0}
+        - {x: 33, y: 20}
+        - {x: 33, y: 81}
+        - {x: 30, y: 92}
+    - name: alienGreen_duck.png
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 17
+        width: 69
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 69}
+        - {x: 17.5, y: 71}
+        - {x: -14.5, y: 71}
+        - {x: -25.5, y: 66}
+        - {x: -34.5, y: 49}
+        - {x: -34.5, y: 3}
+        - {x: -33.5, y: 0}
+        - {x: 31.5, y: 0}
+        - {x: 34.5, y: 17}
+        - {x: 34.5, y: 57}
+    - name: alienGreen_hurt.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 159
+        width: 69
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 92}
+        - {x: -34.5, y: 88}
+        - {x: -34.5, y: 18}
+        - {x: -27.5, y: 0}
+        - {x: 34.5, y: 0}
+        - {x: 34.5, y: 84}
+        - {x: 23.5, y: 92}
+    - name: alienGreen_jump.png
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 76
+        width: 67
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 93}
+        - {x: -33.5, y: 93}
+        - {x: -33.5, y: 2}
+        - {x: -26.5, y: 0}
+        - {x: 26.5, y: 0}
+        - {x: 33.5, y: 6}
+        - {x: 33.5, y: 87}
+    - name: alienGreen_stand.png
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 236
+        width: 66
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 92}
+        - {x: -33, y: 87}
+        - {x: -33, y: 8}
+        - {x: -28, y: 0}
+        - {x: 28, y: 0}
+        - {x: 33, y: 16}
+        - {x: 33, y: 89}
+        - {x: 29, y: 92}
+    - name: alienGreen_swim1.png
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 417
+        width: 69
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 95}
+        - {x: -34.5, y: 90}
+        - {x: -34.5, y: 0}
+        - {x: 31.5, y: 0}
+        - {x: 34.5, y: 15}
+        - {x: 34.5, y: 94}
+        - {x: 33.5, y: 95}
+    - name: alienGreen_swim2.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 70
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 97}
+        - {x: -35, y: 89}
+        - {x: -35, y: 18}
+        - {x: -29, y: 0}
+        - {x: 27, y: 0}
+        - {x: 35, y: 25}
+        - {x: 35, y: 94}
+        - {x: 31, y: 97}
+    - name: alienGreen_walk1.png
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 143
+        width: 68
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 93}
+        - {x: -34, y: 5}
+        - {x: -27, y: 0}
+        - {x: 34, y: 0}
+        - {x: 34, y: 93}
+    - name: alienGreen_walk2.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 70
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 96}
+        - {x: -35, y: 76}
+        - {x: -35, y: 1}
+        - {x: -34, y: 0}
+        - {x: 22, y: 0}
+        - {x: 35, y: 7}
+        - {x: 35, y: 84}
+        - {x: 21, y: 96}
+    - name: alienPink.png
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 236
+        width: 66
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 92}
+        - {x: -23, y: 90}
+        - {x: -33, y: 76}
+        - {x: -33, y: 15}
+        - {x: -22, y: 0}
+        - {x: 22, y: 0}
+        - {x: 33, y: 14}
+        - {x: 33, y: 79}
+        - {x: 19, y: 92}
+    - name: alienPink_climb1.png
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 328
+        width: 66
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 92}
+        - {x: -33, y: 90}
+        - {x: -33, y: 10}
+        - {x: -24, y: 0}
+        - {x: 16, y: 0}
+        - {x: 24, y: 1}
+        - {x: 33, y: 9}
+        - {x: 33, y: 92}
+    - name: alienPink_climb2.png
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 420
+        width: 66
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 92}
+        - {x: -33, y: 90}
+        - {x: -33, y: 10}
+        - {x: -31, y: 0}
+        - {x: 25, y: 0}
+        - {x: 33, y: 36}
+        - {x: 33, y: 83}
+        - {x: 28, y: 92}
+    - name: alienPink_duck.png
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 88
+        width: 69
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 69}
+        - {x: 17.5, y: 71}
+        - {x: -14.5, y: 71}
+        - {x: -25.5, y: 66}
+        - {x: -34.5, y: 49}
+        - {x: -34.5, y: 3}
+        - {x: -33.5, y: 0}
+        - {x: 31.5, y: 0}
+        - {x: 34.5, y: 17}
+        - {x: 34.5, y: 57}
+    - name: alienPink_hurt.png
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 40
+        width: 69
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 92}
+        - {x: -34.5, y: 88}
+        - {x: -34.5, y: 18}
+        - {x: -27.5, y: 0}
+        - {x: 34.5, y: 0}
+        - {x: 34.5, y: 84}
+        - {x: 23.5, y: 92}
+    - name: alienPink_jump.png
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 419
+        width: 67
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 93}
+        - {x: -33.5, y: 93}
+        - {x: -33.5, y: 2}
+        - {x: -26.5, y: 0}
+        - {x: 26.5, y: 0}
+        - {x: 33.5, y: 6}
+        - {x: 33.5, y: 87}
+    - name: alienPink_stand.png
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 327
+        width: 66
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 92}
+        - {x: -33, y: 87}
+        - {x: -33, y: 8}
+        - {x: -28, y: 0}
+        - {x: 28, y: 0}
+        - {x: 33, y: 16}
+        - {x: 33, y: 89}
+        - {x: 29, y: 92}
+    - name: alienPink_swim1.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 417
+        width: 69
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 95}
+        - {x: -34.5, y: 0}
+        - {x: 23.5, y: 0}
+        - {x: 34.5, y: 20}
+        - {x: 34.5, y: 92}
+        - {x: 32.5, y: 95}
+    - name: alienPink_swim2.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 70
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 97}
+        - {x: -35, y: 94}
+        - {x: -35, y: 0}
+        - {x: 17, y: 0}
+        - {x: 35, y: 20}
+        - {x: 35, y: 95}
+        - {x: 30, y: 97}
+    - name: alienPink_walk1.png
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 50
+        width: 68
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 93}
+        - {x: -32, y: 83}
+        - {x: -34, y: 73}
+        - {x: -34, y: 9}
+        - {x: -26, y: 0}
+        - {x: 34, y: 0}
+        - {x: 34, y: 91}
+        - {x: 28, y: 93}
+    - name: alienPink_walk2.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 70
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 96}
+        - {x: -35, y: 76}
+        - {x: -35, y: 0}
+        - {x: 19, y: 0}
+        - {x: 35, y: 10}
+        - {x: 35, y: 84}
+        - {x: 21, y: 96}
+    - name: alienYellow.png
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 337
+        width: 66
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 82}
+        - {x: -33, y: 75}
+        - {x: -33, y: 4}
+        - {x: -28, y: 0}
+        - {x: 21, y: 0}
+        - {x: 33, y: 11}
+        - {x: 33, y: 68}
+        - {x: 19, y: 82}
+    - name: alienYellow_climb1.png
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 70
+        width: 66
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 82}
+        - {x: -33, y: 18}
+        - {x: -21, y: 0}
+        - {x: 10, y: 0}
+        - {x: 33, y: 6}
+        - {x: 33, y: 77}
+        - {x: 31, y: 82}
+    - name: alienYellow_climb2.png
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 245
+        width: 66
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 82}
+        - {x: -33, y: 69}
+        - {x: -33, y: 21}
+        - {x: -28, y: 7}
+        - {x: -26, y: 0}
+        - {x: 24, y: 0}
+        - {x: 33, y: 32}
+        - {x: 33, y: 75}
+        - {x: 29, y: 82}
+    - name: alienYellow_duck.png
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 159
+        width: 68
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 67}
+        - {x: -34, y: 54}
+        - {x: -34, y: 0}
+        - {x: 34, y: 0}
+        - {x: 34, y: 56}
+        - {x: 21, y: 67}
+    - name: alienYellow_hurt.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 251
+        width: 69
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 81}
+        - {x: -34.5, y: 67}
+        - {x: -34.5, y: 14}
+        - {x: -10.5, y: 0}
+        - {x: 34.5, y: 0}
+        - {x: 34.5, y: 77}
+        - {x: 21.5, y: 81}
+    - name: alienYellow_jump.png
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 337
+        width: 67
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 83}
+        - {x: -33.5, y: 82}
+        - {x: -33.5, y: 4}
+        - {x: -32.5, y: 0}
+        - {x: 33.5, y: 0}
+        - {x: 33.5, y: 82}
+        - {x: 32.5, y: 83}
+    - name: alienYellow_stand.png
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 337
+        width: 66
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 82}
+        - {x: -33, y: 76}
+        - {x: -33, y: 0}
+        - {x: 22, y: 0}
+        - {x: 33, y: 7}
+        - {x: 33, y: 73}
+        - {x: 28, y: 82}
+    - name: alienYellow_swim1.png
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 332
+        width: 69
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 85}
+        - {x: -29.5, y: 85}
+        - {x: -34.5, y: 76}
+        - {x: -34.5, y: 0}
+        - {x: 13.5, y: 0}
+        - {x: 18.5, y: 4}
+        - {x: 34.5, y: 22}
+        - {x: 34.5, y: 70}
+    - name: alienYellow_swim2.png
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 228
+        width: 70
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 87}
+        - {x: -35, y: 69}
+        - {x: -35, y: 17}
+        - {x: -33, y: 0}
+        - {x: 25, y: 0}
+        - {x: 35, y: 12}
+        - {x: 35, y: 74}
+        - {x: 31, y: 87}
+    - name: alienYellow_walk1.png
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 236
+        width: 68
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 83}
+        - {x: -34, y: 82}
+        - {x: -34, y: 0}
+        - {x: 34, y: 0}
+        - {x: 34, y: 79}
+        - {x: 25, y: 83}
+    - name: alienYellow_walk2.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 70
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 86}
+        - {x: -35, y: 66}
+        - {x: -35, y: 27}
+        - {x: -29, y: 27}
+        - {x: -10, y: 0}
+        - {x: 35, y: 0}
+        - {x: 35, y: 86}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
