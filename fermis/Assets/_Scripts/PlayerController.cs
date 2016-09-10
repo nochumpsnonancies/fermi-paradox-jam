@@ -3,43 +3,29 @@ using System.Collections;
 
 public class PlayerController : MonoBehaviour {
 
-  public float Speed;
-  public float JumpPower;
-	public bool Grounded;
-  public GameObject GroundCheck;
-
-  private Rigidbody2D rb;
-
-	void Start () {
-    rb = gameObject.GetComponent<Rigidbody2D>();
-	}
-
 	void FixedUpdate ()
   {
-    if(Input.GetKeyDown("space"))
-    {
-      rb.AddForce(Vector3.up * JumpPower);
-    }
     if(Input.GetKey("escape"))
     {
       GameController.control.PauseGame();
     }
 	}
 
-  void OnCollisionEnter(Collision coll)
+  void OnCollisionEnter2D(Collision2D coll)
   {
-    if (coll.gameObject.tag == "PlanetBlue")
+    if (coll.gameObject.tag == "LifeElement")
     {
+      GameController.control.Score += 1f;
       Destroy(coll.gameObject, 0);
     }
 
-    if (coll.gameObject.tag == "PlanetRed")
+    if (coll.gameObject.tag == "Enemy")
     {
       Destroy(coll.gameObject, 0);
       GameController.control.Health -= 1f;
     }
 
-    if (coll.gameObject.tag == "PlanetGreen")
+    if (coll.gameObject.tag == "HealthKit")
     {
       Destroy(coll.gameObject, 0);
       GameController.control.Health += 1f;

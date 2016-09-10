@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: a33c6e1c7355ed247b884f3cd0354a7e
-timeCreated: 1473449127
+timeCreated: 1473451139
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -84,7 +84,7 @@ TextureImporter:
   textureFormat: -3
   maxTextureSize: 8192
   textureSettings:
-    filterMode: 0
+    filterMode: 2
     aniso: 16
     mipBias: -1
     wrapMode: 1
@@ -111,21 +111,22 @@ TextureImporter:
         x: 478
         y: 57
         width: 66
-        height: 92
+        height: 90
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -21, y: 92}
-        - {x: -24, y: 91}
-        - {x: -33, y: 75}
-        - {x: -33, y: 11}
+      - - {x: -23, y: 90}
+        - {x: -33, y: 76}
+        - {x: -33, y: 18}
+        - {x: -31, y: 17}
+        - {x: -27, y: 17}
         - {x: -24, y: 20}
         - {x: -25, y: 0}
-        - {x: 25, y: 0}
-        - {x: 33, y: 15}
-        - {x: 33, y: 77}
-        - {x: 19, y: 92}
+        - {x: 30, y: 0}
+        - {x: 33, y: 11}
+        - {x: 33, y: 84}
+        - {x: 24, y: 90}
     - name: alienBeige_climb1.png
       rect:
         serializedVersion: 2
@@ -725,22 +726,22 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 610
-        y: 236
+        y: 237
         width: 66
-        height: 92
+        height: 91
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -15, y: 92}
-        - {x: -23, y: 90}
-        - {x: -33, y: 76}
-        - {x: -33, y: 15}
+      - - {x: -19, y: 91}
+        - {x: -24, y: 90}
+        - {x: -33, y: 75}
+        - {x: -33, y: 14}
         - {x: -22, y: 0}
-        - {x: 22, y: 0}
-        - {x: 33, y: 14}
-        - {x: 33, y: 79}
-        - {x: 19, y: 92}
+        - {x: 23, y: 0}
+        - {x: 33, y: 15}
+        - {x: 33, y: 78}
+        - {x: 21, y: 91}
     - name: alienPink_climb1.png
       rect:
         serializedVersion: 2
