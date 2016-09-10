@@ -1,0 +1,478 @@
+fileFormatVersion: 2
+guid: ba765e958fb623c4f953f8ee759967d1
+timeCreated: 1473495268
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dome.png
+    21300002: shipBeige.png
+    21300004: shipBeige_damage1.png
+    21300006: shipBeige_damage2.png
+    21300008: shipBeige_manned.png
+    21300010: shipBlue.png
+    21300012: shipBlue_damage1.png
+    21300014: shipBlue_damage2.png
+    21300016: shipBlue_manned.png
+    21300018: shipGreen.png
+    21300020: shipGreen_damage1.png
+    21300022: shipGreen_damage2.png
+    21300024: shipGreen_manned.png
+    21300026: shipPink.png
+    21300028: shipPink_damage.png
+    21300030: shipPink_damage1.png
+    21300032: shipPink_manned.png
+    21300034: shipYellow.png
+    21300036: shipYellow_damage1.png
+    21300038: shipYellow_damage2.png
+    21300040: shipYellow_manned.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 70
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dome.png
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 158
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 49}
+        - {x: -41.5, y: 32}
+        - {x: -41.5, y: -49}
+        - {x: 31.5, y: -49}
+        - {x: 41.5, y: -42}
+        - {x: 41.5, y: 32}
+        - {x: 26.5, y: 49}
+    - name: shipBeige.png
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 256
+        width: 124
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 33.5}
+        - {x: -62, y: -20.5}
+        - {x: -52, y: -33.5}
+        - {x: 39, y: -33.5}
+        - {x: 62, y: -25.5}
+        - {x: 62, y: 33.5}
+    - name: shipBeige_damage1.png
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 323
+        width: 124
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 33.5}
+        - {x: -62, y: -25.5}
+        - {x: -37, y: -33.5}
+        - {x: 45, y: -33.5}
+        - {x: 62, y: -13.5}
+        - {x: 62, y: 33.5}
+    - name: shipBeige_damage2.png
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 30
+        width: 124
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 33.5}
+        - {x: -62, y: -13.5}
+        - {x: -34, y: -30.5}
+        - {x: -24, y: -33.5}
+        - {x: 28, y: -33.5}
+        - {x: 62, y: -10.5}
+        - {x: 62, y: 33.5}
+    - name: shipBeige_manned.png
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 390
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -61}
+        - {x: 42, y: -61}
+        - {x: 62, y: -54}
+        - {x: 62, y: 25}
+        - {x: 48, y: 61}
+        - {x: -41, y: 61}
+        - {x: -62, y: 54}
+        - {x: -62, y: -52}
+    - name: shipBlue.png
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 97
+        width: 124
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 45}
+        - {x: -62, y: -13}
+        - {x: -42, y: -45}
+        - {x: 28, y: -45}
+        - {x: 62, y: 2}
+        - {x: 62, y: 37}
+        - {x: 49, y: 45}
+    - name: shipBlue_damage1.png
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 187
+        width: 124
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 45}
+        - {x: -62, y: 42}
+        - {x: -62, y: -8}
+        - {x: -33, y: -36}
+        - {x: -20, y: -45}
+        - {x: 39, y: -45}
+        - {x: 49, y: -39}
+        - {x: 62, y: -4}
+        - {x: 62, y: 45}
+    - name: shipBlue_damage2.png
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 277
+        width: 124
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 45}
+        - {x: -62, y: 36}
+        - {x: -62, y: -8}
+        - {x: -26, y: -45}
+        - {x: 44, y: -45}
+        - {x: 62, y: -25}
+        - {x: 62, y: 44}
+        - {x: 55, y: 45}
+    - name: shipBlue_manned.png
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 367
+        width: 124
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 72.5}
+        - {x: -62, y: 31.5}
+        - {x: -62, y: -39.5}
+        - {x: -53, y: -72.5}
+        - {x: 41, y: -72.5}
+        - {x: 62, y: -28.5}
+        - {x: 62, y: 43.5}
+        - {x: 43, y: 72.5}
+    - name: shipGreen.png
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 41
+        width: 124
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 34}
+        - {x: -62, y: 25}
+        - {x: -62, y: -8}
+        - {x: -39, y: -34}
+        - {x: 35, y: -34}
+        - {x: 62, y: -23}
+        - {x: 62, y: 25}
+        - {x: 41, y: 34}
+    - name: shipGreen_damage1.png
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 109
+        width: 124
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 34}
+        - {x: -35, y: 34}
+        - {x: -62, y: 25}
+        - {x: -62, y: -8}
+        - {x: -42, y: -27}
+        - {x: -30, y: -34}
+        - {x: 32, y: -34}
+        - {x: 45, y: -32}
+        - {x: 62, y: -15}
+        - {x: 62, y: 32}
+    - name: shipGreen_damage2.png
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 177
+        width: 124
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 34}
+        - {x: -62, y: -20}
+        - {x: -47, y: -34}
+        - {x: 39, y: -34}
+        - {x: 62, y: -24}
+        - {x: 62, y: 34}
+    - name: shipGreen_manned.png
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 245
+        width: 124
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 61.5}
+        - {x: -23, y: 61.5}
+        - {x: -50, y: 35.5}
+        - {x: -62, y: 5.5}
+        - {x: -62, y: -50.5}
+        - {x: -48, y: -61.5}
+        - {x: 53, y: -61.5}
+        - {x: 62, y: -56.5}
+        - {x: 62, y: 44.5}
+        - {x: 58, y: 57.5}
+    - name: shipPink.png
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 368
+        width: 124
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 36}
+        - {x: -59, y: 36}
+        - {x: -62, y: 35}
+        - {x: -62, y: -11}
+        - {x: -54, y: -34}
+        - {x: -47, y: -36}
+        - {x: 32, y: -36}
+        - {x: 62, y: -10}
+        - {x: 62, y: 30}
+        - {x: 61, y: 33}
+    - name: shipPink_damage.png
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 440
+        width: 124
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -8}
+        - {x: -50, y: -31}
+        - {x: -43, y: -36}
+        - {x: 28, y: -36}
+        - {x: 62, y: -18}
+        - {x: 62, y: 34}
+        - {x: 41, y: 36}
+        - {x: -41, y: 36}
+        - {x: -62, y: 28}
+    - name: shipPink_damage1.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 124
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -8}
+        - {x: -50, y: -31}
+        - {x: -43, y: -36}
+        - {x: 28, y: -36}
+        - {x: 62, y: -18}
+        - {x: 62, y: 34}
+        - {x: 41, y: 36}
+        - {x: -41, y: 36}
+        - {x: -62, y: 28}
+    - name: shipPink_manned.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 124
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 63.5}
+        - {x: -46, y: 63.5}
+        - {x: -62, y: 24.5}
+        - {x: -62, y: -54.5}
+        - {x: -43, y: -63.5}
+        - {x: 40, y: -63.5}
+        - {x: 62, y: -39.5}
+        - {x: 62, y: 1.5}
+        - {x: 61, y: 4.5}
+    - name: shipYellow.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 124
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 31}
+        - {x: -44, y: 31}
+        - {x: -62, y: 29}
+        - {x: -62, y: -10}
+        - {x: -47, y: -31}
+        - {x: 45, y: -31}
+        - {x: 53, y: -21}
+        - {x: 62, y: -11}
+        - {x: 62, y: 21}
+    - name: shipYellow_damage1.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 124
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 29}
+        - {x: 43, y: 31}
+        - {x: -41, y: 31}
+        - {x: -62, y: 22}
+        - {x: -62, y: -28}
+        - {x: -58, y: -31}
+        - {x: 51, y: -31}
+        - {x: 62, y: -18}
+    - name: shipYellow_damage2.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 124
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 29}
+        - {x: 43, y: 31}
+        - {x: -41, y: 31}
+        - {x: -62, y: 22}
+        - {x: -62, y: -28}
+        - {x: -58, y: -31}
+        - {x: 51, y: -31}
+        - {x: 62, y: -18}
+    - name: shipYellow_manned.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 54}
+        - {x: -62, y: 1}
+        - {x: -62, y: -54}
+        - {x: 52, y: -54}
+        - {x: 62, y: -42}
+        - {x: 62, y: 4}
+        - {x: 24, y: 54}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
