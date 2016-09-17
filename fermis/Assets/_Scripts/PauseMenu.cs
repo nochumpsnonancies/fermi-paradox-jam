@@ -1,9 +1,10 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 using System.Collections;
 
 public class PauseMenu : MonoBehaviour {
 
-  public void Quit ()
+  public void ExitGame ()
   {
     Application.Quit();
   }

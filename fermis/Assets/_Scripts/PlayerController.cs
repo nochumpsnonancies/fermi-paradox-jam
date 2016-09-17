@@ -3,6 +3,13 @@ using System.Collections;
 
 public class PlayerController : MonoBehaviour {
 
+  private Animator Anim;
+
+  void Awake ()
+  {
+    Anim = GetComponent<Animator>();
+  }
+
 	void FixedUpdate ()
   {
     if(Input.GetKey("escape"))
@@ -11,17 +18,20 @@ public class PlayerController : MonoBehaviour {
     }
 	}
 
-  void OnCollisionEnter2D(Collision2D coll)
+  void OnTriggerEnter2D(Collider2D trig)
   {
-    if (coll.gameObject.tag == "LifeElement")
+    if (trig.gameObject.tag == "LifeElement")
     {
-      GameController.control.Score += 1f;
-      Destroy(coll.gameObject, 0);
+      trig.transform.parent = transform;
     }
 
+  }
+
+  void OnCollisionEnter2D(Collision2D coll)
+  {
     if (coll.gameObject.tag == "Enemy")
     {
-      Destroy(coll.gameObject, 0);
+      Anim.Play("Hurt");
       GameController.control.Health -= 1f;
     }
 
